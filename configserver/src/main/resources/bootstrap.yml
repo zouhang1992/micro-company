@@ -6,7 +6,7 @@ spring:
       enabled: true
       server:
         git:
-          uri: https://github.com/idugalic/micro-company-config.git
+          uri: https://github.com/zouhang1992/micro-company-config.git
           default-label: axon3-boot
       label: axon3-boot
     
